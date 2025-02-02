@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Advanced API's and API Security**
 
-- 📫 How to reach me **.winner on discord**
+- 📫 You can reach me **.winner on discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
