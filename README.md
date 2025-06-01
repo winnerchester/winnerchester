@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winnerchester&label=Profile%20views&color=0e75b6&style=flat" alt="winnerchester" /> </p>
 
-- 🌱 I’m currently learning **Advanced API's and API Security**
-
 - 📫 You can reach me **.winner on discord**
 
 <h3 align="left">Languages and Tools:</h3>
